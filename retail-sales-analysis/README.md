@@ -107,19 +107,19 @@ retail-sales-analysis/
 │   └── retail_sales_dataset.csv
 │
 ├── scripts/
-│   ├── Monthly Sales Trend.py
-│   ├── Monthly Sales by Category.py
-│   ├── Quantity vs. Total Amount.py
-│   ├── Revenue Share by Category.py
-│   ├── Sales by Age Group.py
-│   └── Sales by Product Category.py
+│   ├── monthly_sales_by_category.py
+│   ├── monthly_sales_trend.py
+│   ├── quantity_vs._total_amount.py
+│   ├── revenue_share_by_category.py
+│   ├── sales_by_age_group.py
+│   └── sales_by_product_category.py
 │
 ├── visualizations/
-│   ├── Monthly Sales Trend (Line Chart).png
-│   ├── Monthly Sales by Product Category.png
-│   ├── Quantity vs Total Amount.png
-│   ├── Revenue Share by Product Category.png
-│   ├── Sales by Product Category.png
-│   └── Total Sales By Age Group.png
+│   ├── monthly_sales_trend.png
+│   ├── monthly_sales_by_product_category.png
+│   ├── quantity_vs._total_amount.png
+│   ├── revenue_share_by_product_category.png
+│   ├── sales_by_product_category.png
+│   └── total_sales_by_age_group.png
 │
 └── requirements.txt
