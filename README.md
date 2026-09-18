@@ -1,6 +1,6 @@
 # Hi, I'm Kaden 👋
 
-### Master Data Analyst | SAP | Data Analytics
+### Master Data Analyst | SAP | Data Analytics & Business Intelligence
 
 I'm a finance and data professional focused on using **SAP, SQL, Python, and Power BI** to turn business data into actionable insights.
 
