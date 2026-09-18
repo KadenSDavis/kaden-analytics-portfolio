@@ -30,6 +30,7 @@ employee-attrition-ml/
 │   ├── attrition_by_department.png
 │   └── attrition_by_tenure.png
 │
+├── requirements.txt
 └── README.md
 ```
 
