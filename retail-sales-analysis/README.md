@@ -107,11 +107,12 @@ retail-sales-analysis/
 │   └── retail_sales_dataset.csv
 │
 ├── scripts/
-│   ├── monthly_sales_trend.py
-│   ├── sales_by_category.py
-│   ├── monthly_sales_by_category.py
-│   ├── sales_by_age_group.py
-│   └── quantity_vs_sales.py
+│   ├── Monthly Sales Trend.py
+│   ├── Monthly Sales by Category.py
+│   ├── Quantity vs. Total Amount.py
+│   ├── Revenue Share by Category.py
+│   ├── Sales by Age Group.py
+│   └── Sales by Product Category.py
 │
 ├── visualizations/
 │   ├── Monthly Sales Trend (Line Chart).png
