@@ -93,6 +93,6 @@ I'm particularly interested in roles where I can combine my **SAP/finance backgr
 
 ## 📫 Connect With Me
 
-[LinkedIn] https://www.linkedin.com/in/kaden-davis-15826b236/
+https://www.linkedin.com/in/kaden-davis-15826b236/
 
 [GitHub](https://github.com/KadenSDavis)
