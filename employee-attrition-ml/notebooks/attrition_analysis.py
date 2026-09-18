@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import shap
 
 
-df = pd.read_csv("/Users/kadendavis/PycharmProjects/employee-attrition-ml/data/HR-Employee-Attrition.csv")
+df = pd.read_csv("/Users/kadendavis/PycharmProjects/employee-attrition-ml/data/attrition.csv")
 
 # Convert Attrition to binary
 df['Attrition'] = df['Attrition'].map({'Yes': 1, 'No': 0})
